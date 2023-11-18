@@ -1,4 +1,4 @@
-# Project Readme
+# Simple HTML-CSS Project
 
 ## Introduction
 
@@ -37,8 +37,8 @@ CSS styling is incorporated directly into the HTML files using inline styles. No
 
 For visual representations of the pages, refer to the following links:
 
-- [Output Image for index.html](output_images/index_output.png)
-- [Output Image for anchors.html](output_images/anchors_output.png)
+- ![Output Image for index.html](Capture9.PNG)
+- ![Output Image for anchors.html](Capture10.PNG)
 
 ## How to Use
 
